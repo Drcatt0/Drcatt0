@@ -31,43 +31,6 @@
 
 ---
 
-## 🚀 What I Build
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>📱 Nextcloud iOS App</b><br/>
-        <sub>Custom fork with built-in Manga Reader and Music tabs, sideloadable via AltStore</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>📚 Manga Reader</b><br/>
-        <sub>Self-hosted Nextcloud extension for CBZ, PDF & EPUB with progress sync and Komga API compatibility</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>🤖 AMP Discord Bot</b><br/>
-        <sub>Custom Discord bot for server management and automation</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <b>🎮 Minecraft Server</b><br/>
-        <sub>Modpack server running Society: Sunlit Valley with automated backups and a custom management dashboard</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>☁️ Self-Hosted Cloud</b><br/>
-        <sub>Full Nextcloud stack on local hardware with automated backups, face recognition, and custom extensions</sub>
-      </td>
-      <td align="center" width="33%">
-        <b>🔒 Security Tooling</b><br/>
-        <sub>Penetration testing, vulnerability assessment, and secure development with a Security+ background</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
